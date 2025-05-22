@@ -38,7 +38,7 @@ var ikagakaConfig = {
      *
      * 最低1つないとエラーになります。
      */
-    initialGhosts: ["ikaga"],
+    initialGhosts: ["meganeoni"],
     /**
      * 最初に起動するバルーンディレクトリ名（＝install.txtのdirectoryエントリ名）
      */
@@ -50,10 +50,8 @@ var ikagakaConfig = {
      * またnarは同一ドメインのサイト上にある必要があります。
      */
     initialNars: [
-        "./vendor/nar/origin.nar",
-        "./vendor/nar/ikaga.nar",
-        "./vendor/nar/touhoku-zunko_or__.nar",
-    ],
+    "./vendor/nar/meganeoni.nar",
+],
 };
 
 /*
