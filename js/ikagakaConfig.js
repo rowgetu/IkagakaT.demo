@@ -51,6 +51,7 @@ var ikagakaConfig = {
      */
     initialNars: [
     "./vendor/nar/meganeoni.nar",
+    "./vendor/nar/origin.nar",
 ],
 };
 
