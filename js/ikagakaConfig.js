@@ -42,7 +42,7 @@ var ikagakaConfig = {
     /**
      * 最初に起動するバルーンディレクトリ名（＝install.txtのdirectoryエントリ名）
      */
-    initialBalloonpath: null,
+    initialBalloonpath: "origin",
     /**
      * 初期にインストールするnarのパス配列
      *
